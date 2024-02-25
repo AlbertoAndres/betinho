@@ -1,0 +1,2 @@
+# betinho
+tech reminiscences
