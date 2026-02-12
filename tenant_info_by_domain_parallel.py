@@ -4,8 +4,8 @@ import random
 from azure.identity import DeviceCodeCredential
 from msgraph import GraphServiceClient
 
-CLIENT_ID = "<your-app-client-id>"
-TENANT_ID = "<your-tenant-id>"
+CLIENT_ID = "<YOUR_CLIENT_ID>"
+TENANT_ID = "<YOUR_TENANT_ID>"
 
 SCOPES = ["https://graph.microsoft.com/CrossTenantInformation.ReadBasic.All"]
 
